@@ -6,33 +6,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Personal information
 
-*   Creating beautiful resumés from simple Markdown documents
-- 男，1994 年出生
- - 求职意向：Java 研发工程师
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+*   gender:male
+*   QQ:1563713769
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Educational experience
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kmust-why/kmust-why.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+*  Master, Kunming University of Science and Technology, Control engineering, 2017.9~2020.6
+*  Bachelor, Kunming University of Science and Technology, Automation, 2013.9~2017.6
 
 ### Support or Contact
 
@@ -129,18 +111,6 @@ Skills
          </span>
      </div>
  </center>
-
- ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
-
- - 男，1994 年出生
- - 求职意向：Java 研发工程师
-
-## 教育经历
-
-- 硕士，XXXX大学，计算机科学与技术专业，2016.9~2019.7
-- 学士，XXXX大学，软件工程专业，2012.9~2016.7
-- 绩点：***，年级前 100%
-- 通过了 CET4/6 英语等级考试
 
 ## 工作经历
 
