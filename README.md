@@ -4,9 +4,11 @@ You can use the [editor on GitHub](https://github.com/kmust-why/kmust-why.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Personal information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*   Creating beautiful resumés from simple Markdown documents
+- 男，1994 年出生
+ - 求职意向：Java 研发工程师
 
 ```markdown
 Syntax highlighted code block
